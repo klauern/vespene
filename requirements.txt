@@ -7,7 +7,7 @@ sphinx-autobuild==0.7.1
 sphinx==1.7.6
 django-split-settings==0.3.0
 slackclient==1.2.1
-whitenoise==4.1
+whitenoise==5.2.0
 sphinx_rtd_theme==0.4.1
 cryptography
 fernet==1.0.1
