@@ -14,3 +14,5 @@ fernet==1.0.1
 gunicorn==19.9.0
 PyGithub==1.43.2
 PyYAML==3.13
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
