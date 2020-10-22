@@ -6,7 +6,7 @@ django-crispy-forms==1.7.2
 sphinx-autobuild==0.7.1
 sphinx==1.7.6
 django-split-settings==0.3.0
-slackclient==1.2.1
+slackclient==2.9.3
 whitenoise==4.1
 sphinx_rtd_theme==0.4.1
 cryptography
