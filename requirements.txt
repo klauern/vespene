@@ -12,5 +12,5 @@ sphinx_rtd_theme==0.4.1
 cryptography
 fernet==1.0.1
 gunicorn==19.9.0
-PyGithub==1.43.2
+PyGithub==1.54.1
 PyYAML==3.13
