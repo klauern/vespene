@@ -8,7 +8,7 @@ sphinx==1.7.6
 django-split-settings==0.3.0
 slackclient==1.2.1
 whitenoise==4.1
-sphinx_rtd_theme==0.4.1
+sphinx_rtd_theme==0.5.1
 cryptography
 fernet==1.0.1
 gunicorn==19.9.0
